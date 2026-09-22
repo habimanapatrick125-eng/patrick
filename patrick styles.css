@@ -1,7 +1,7 @@
 h1{
     background-color: blue;
     border: 2px solid black;
-    color:darkgreen;
+    color: teal;
 
 }
 p1{
@@ -18,4 +18,14 @@ p2{color:rgb(21, 55, 207);
 p3{
     color:teal;
     font-size: 150%;
+}
+h1:hover{
+    background-color: rgb(129, 138, 129);
+    color: darkgreen;
+    border: 2px solid blue;
+}
+h2:hover{
+    background-color: blue;
+    color: green;
+    border: 2px black;
 }
